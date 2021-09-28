@@ -1,9 +1,6 @@
 # DH110-MICHAELCANABARRO
-for class demonstration
 
+## Assignment 1: Heuristic Evaluation
 
-## it is fun!
+Michael Canabarro | DH 110 | Fall 2021
 
-### smaller
-
-[go to NPR](http://npr.org)
