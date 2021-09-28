@@ -1,6 +1,5 @@
 # DH110-MICHAELCANABARRO
 
-## Assignment 1: Heuristic Evaluation
+## Welcome to Michael Canabarro's DH 110 homepage
 
-Michael Canabarro | DH 110 | Fall 2021
-
+DH 110, Fall 2021
