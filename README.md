@@ -1,5 +1,4 @@
 # DH110-MICHAELCANABARRO
 
-## Welcome to Michael Canabarro's DH 110 homepage
+This repository is for DH110: UX+UI design at UCLA, for the Fall 2021 quarter.
 
-DH 110, Fall 2021
