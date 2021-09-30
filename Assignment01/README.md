@@ -140,7 +140,9 @@ As with MEFA's evaluation, I will be examining OFSA's website from the perspecti
 
 #### 2. Match Between System and the Real World
 
+* OFSA does a good job of mirroring the real world by distinguishing between student and school functions. However, it lacks a lot of life-like elements that could make it more intuitive to use and save time for users, such as icons that correspond with real-life objects and symbols. **Severity Rating: 2**
 
+> Recommendation: For key functions and menus with few selections, add icons to make each option more distinct and identifiable.
 
 #### 3. User Control and Freedom
 
