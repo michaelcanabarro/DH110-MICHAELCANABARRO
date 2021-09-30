@@ -51,6 +51,10 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 
 > Recommendation: Add an autocomplete function on the search bar with potential search endings, perhaps sorted by popularity. This will help users spend less time looking for pages relevant to what they are trying to do.
 
+![MEFA's Financial Aid Calculator](mefa_calculator.png)
+
+* MEFA's Financial Aid calculator clearly names all steps of the financial aid calculation process at the top of the feature, making it easy for users to identify their progress.
+
 #### 2. Match Between System and the Real World
 
 ![Icons on MEFA's "College Financing" page](mefa_collegefinancing.png)
