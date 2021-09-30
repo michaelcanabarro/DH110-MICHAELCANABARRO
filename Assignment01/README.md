@@ -140,27 +140,31 @@ As with MEFA's evaluation, I will be examining OFSA's website from the perspecti
 
 #### 2. Match Between System and the Real World
 
-* OFSA does a good job of mirroring the real world by distinguishing between student and school functions. However, it lacks a lot of life-like elements that could make it more intuitive to use and save time for users, such as icons that correspond with real-life objects and symbols. **Severity Rating: 2**
+* OFSA does a good job of mirroring the real world by distinguishing between student and school functions and using minimal jargon. However, it lacks a lot of life-like elements that could make it more intuitive to use and save time for users, such as icons that correspond with real-life objects and symbols. **Severity Rating: 2**
 
 > Recommendation: For key functions and menus with few selections, add icons to make each option more distinct and identifiable.
 
 #### 3. User Control and Freedom
 
-
+* Like MEFA's website, OFSA's makes it difficult to find a scenario where an exit button would be needed, since every page is around a click away from each other. In this sense, users have a great degree of control at all times, and are able to freely navigate within pages on the website to access various pieces of information. **Severity Rating: Satisfactory**
 
 #### 4. Consistency and Standards
 
+* One of the website's high points is its consistency. The design of the website remains more or less constant on every page, ensuring users that they are still on the same website. However, a drawback of this is that the color palette is very similar to that of the Department of Higher Education's website. So, especially when searching, it might be difficult to distinguish between the two. **Severity Rating: 1**
 
+> Recommendation: Rearrange the colors within the palette or add a new color to distinguish OFSA's website from its parent website.
 
 #### 5. Error Prevention
 
+* With regards to avoiding error-prone positions, I noticed that, when a search is made in the search bar, the user is returned to the broader Department of Higher Education homepage. This could lead to confusion among users, who might expect to remain on the same webpage they were before. Navigating the wrong webpage can lead users to select an option or enter a page that they didn't intend to, which would not be preventing errors. **Severity Rating: 2**
 
+> Recommendation: Keep the search bar on the OFSA page to allow users to easily return with minimal confusion.
 
 #### 6. Recognition Rather than Recall
 
 ![Options on OFSA's menu bar](ofsa_menubar.png)
 
-* Although OFSA's website generally does a good job of making features recognizable, there are a few acronyms and names that may be unfamiliar to inexperienced users. Like MEFA's page, the meanings of the above names con only be found by clicking on them, which causes the user to spend time they might have used to find the information they needed.
+* Although OFSA's website generally does a good job of making features recognizable, there are a few acronyms and names that may be unfamiliar to inexperienced users. Like MEFA's page, the meanings of the above names con only be found by clicking on them, which causes the user to spend time they might have used to find the information they needed. **Severity Rating: 2**
 
 > Recommendation: Write out acronyms to reduce cognitive load for users who might not be familiar with them.
 
@@ -178,10 +182,14 @@ As with MEFA's evaluation, I will be examining OFSA's website from the perspecti
 
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors
 
+* Similar to MEFA's page, the search bar offers no feedback when a query returns no results. As a result, it is very difficult to identify what went wrong with the query or what can be done to improve it. **Severity Rating: 2**
 
+> Recommendation: Add feedback to the search bar in the form of an explanation why the query might not have returned anything. This feedback could also point out common reasons for query rejection and suggest popular searches to attempt to guide users in the right direction.
 
 #### 10. Help and Documentation
 
 * On the page for each scholarship or grant, many details are listed, including application instructions and information about eligibility that greatly assist users in identifying financial solutions that work for them. Linked to most of the individual pages are also PDF documents containing many details about each scholarship or grant. **Severity Rating: Satisfactory**
 
 ### Overall Evaluation
+
+OFSA's website has a clean, consistent design that allows users to easily navigate its features. However, like MEFA, the search bar could be vastly improved to make the user's experience better. Other areas that could be cleaned up include the use of unfamiliar acronyms and some visual elements that distract from the functionality of the website a bit. But, overall, the website is decent, and the recommended changes above could make it even more usable to discover financial assistance solutions for students across Massachusetts.
