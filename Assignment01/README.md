@@ -1,11 +1,12 @@
-# (Title of Project)
+# Government Support for Accessibility to Higher Education Among Underrepresented Groups in Massachusetts
 ## Assignment 01: Heuristic Evaluation of Massachusetts
 ### Michael Canabarro | DH 110 | Fall 2021
 
 ---
 
 ### About the Project 
-Purpose of this assignment (3-5 sentences desctribing what you want to show)
+
+The highlights of higher education-- lifelong friends, memories, and more-- are often publicized, especially in the digital age, when students' college experiences are often shared on social media platforms. However, behind this glamorous facade, accessibility has been, and still is, one of the greatest issues plaguing higher education. Even in the wake of affirmative action programs over the decades, minority and underrepresented groups still find themselves facing many barriers between them and the esteemed college experience. In this project, I hope to shed light on the issue of accessibility through the lens of user experience in the state of Massachusetts, home to some of the most well-known colleges and universities in the United States. What is the government doing to assist underrepresented groups and make college more accessible to them? Is the government providing information about these programs in a way that makes it easier or more difficult to learn about them? By answering these questions and ones that arise from them, I hope to examine one of many facets in which access to higher edication can be improved.
 
 ---
 
