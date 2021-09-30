@@ -110,7 +110,13 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 
 #### 10. Help and Documentation
 
+* Although there is no distint guide or document to explain the various functions of MEFA's website, its pages explain in great detail the various types of financial aid, as well as how to apply, which is very helpful. It might be more organized, however, to include this information on a master document that could be a "one-stop shop" for solutions, as it might be difficult to navigate until you find your solution. **Severity Rating: 2**
+
+> Recommendation: Include a master "Help" document that includes information about how to use the various functions of the website as well as the application features.
+
 ### Overall Evaluation
+
+As seen in the heuristic evaluation, MEFA's search bar needs improvement, but it shines in areas like formatting, design consistency, and general ease of navigation. It does a good job of organizing a lot of dense information into simple, clean, and easily navigable menus. So, overall, MEFA's website has no glaring issues; however, it can be streamlined to make its information even easier to find for users of all experience levels, which will make it accessible to as many people as possible.
 
 ---
 
