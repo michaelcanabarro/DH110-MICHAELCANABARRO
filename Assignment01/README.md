@@ -37,6 +37,9 @@ The highlights of higher education-- lifelong friends, memories, and more-- are 
 
 ### About
 
+The Massachusetts Education Financing Authority (MEFA) is a Massachusets state organization that aims to provide help at all stages of school planning, with an emphasis on financial planning. They offer plans for all levels of education, from pre-K to graduate school. In terms of financing, they offer resources to create savings plans, learn more about financial aid, and apply for a loan directly from MEFA. 
+
+In my heuristic evaluation, I will focus on the perspective of a student who needs financial aid in order to go to college and is interested in financial aid. From this point of view, ease of use will be crucial, as it could be the difference between applying for a loan-- and ultimately going to college-- or not.
 
 ### Heuristic Evaluation
 
@@ -60,6 +63,8 @@ The highlights of higher education-- lifelong friends, memories, and more-- are 
 ## Website 2: [Massachusetts Department of Higher Education](https://www.mass.edu/home.asp)
 
 ### About
+
+The
 
 ## Heuristic Evaluation
 
