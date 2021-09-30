@@ -76,6 +76,12 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 > Recommendation: Include savings plans under the "Make a Plan" dropdown to ensure ease of use and consistency in the placement and definition of plans on the website. The menu can be subdivided into academic plans and financial plans to maintain the usability of the separate menus while improving organization.
 
 #### 5. Error Prevention
+
+![MEFA's College Cost Calculator](mefa_collegecost.png)
+
+* Overall, MEFA's website is simply designed in a way that makes it easy to avoid errors. But, its College Cost Calculator provides a great example of error prevention. For almost every category, there is an information bubble that can be hovered over to learn more about what information to include. In doing so, the website prevents inaccurate calculations, which is crucial for successful college planning. **Severity Rating: Satisfactory**
+
+
 #### 6. Recognition Rather than Recall
 
 ![MEFA's "Pay for College" options](mefa_EFC.png)
@@ -85,6 +91,9 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 > Recommendation: Write out acronyms to make them easily identifiable and recognizable for all users of the website.
 
 #### 7. Flexibility and Efficiency of Use
+
+* The website allows those who already have accounts to log in to access features specific for them. Beyond that, I feel that the website's design is simple enough so as to not require shortcuts for efficient use, even among experienced users. **Severity Rating: Satisfactory**
+
 #### 8. Aesthetic and Minimal Design
 
 ![MEFA's homepage](mefa_landingpage.png)
@@ -94,6 +103,11 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 > Recommendation: Condense options like "Blog," "Events," "Videos," and "Podcast" into an "Other" dropdown.
 
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors
+
+* If a search yields no results, the website merely says that no results were found, which is not very constructive or helpful for users. **Severity Rating: 2**
+
+> Recommendation: Provide common reasons for failed searches, like spelling mistakes. Add text to encourage users to ensure there are no mistakes in the query and try again. It could also suggest that users look through the dropdown menus to look for a solution before using the search bar.
+
 #### 10. Help and Documentation
 
 ### Overall Evaluation
