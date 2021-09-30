@@ -52,8 +52,25 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 > Recommendation: Add an autocomplete function on the search bar with potential search endings, perhaps sorted by popularity. This will help users spend less time looking for pages relevant to what they are trying to do.
 
 #### 2. Match Between System and the Real World
+
+![Icons on MEFA's "College Financing" page](mefa_collegefinancing.png)
+
+* Overall, MEFA's website does a good job of matching their functions with reality, especially with their use of icons. As seen in the above screenshot of MEFA's "College Financing" page, the icons used accurately match their real life counterparts; for example, piggy banks are used to save money and calendars are used to make time-related plans. However, money appears in some logos where it might not be necessary; it makes the icons more similar than they have to, which may make some features harder to identify than they need to be. **Severity Rating: 1**
+
+> Recommendation: Simplify the icons to include only what is necessary. Given money is already a common theme, the "Financial Aid" icon can be changed to something like a pair of hands, which are a symbol of charity and giving; additionally, the money sign can be removed from the "Payment Plans" button, since the calendar is enough in my opinion to represent that.
+
 #### 3. User Control and Freedom
+
+* In general, it is pretty simple for users to abandon what they are doing if they make a mistake. Although most pages are primarily informational and don't require such a feature, one click is often enough to get to another page on the website. When applying for a loan, another tab opens, which, albeit potentially confusing, allows users to quickly exit the application and return to the main page if they so choose. **Severity Rating: 1**
+
+> Recommendation: If I had to change anything, I would make the application remain in the same website and tab to prevent confusion from multiple tabs. With this, an "Exit" button would be included to allow users to quickly leave the application process and return to the homepage.
+
 #### 4. Consistency and Standards
+
+* MEFA's page is very consistent in terms of formatting and design, and mostly so with regards to definitions. However, the menu is a bit confusing in the way it distinguishes savings plans from general education plans. Specifically, savings plan options do not appear under the "Make a Plan" dropdown, but rather under the "Start to Save" menu, which seems to suggest that a savings plan is not a plan. As a result, there might be some difficulty for those looking specifically for savings plans, which can be potentially serious. **Severity Rating: 2**
+
+> Recommendation: Include savings plans under the "Make a Plan" dropdown to ensure ease of use and consistency in the placement and definition of plans on the website. The menu can be subdivided into academic plans and financial plans to maintain the usability of the separate menus while improving organization.
+
 #### 5. Error Prevention
 #### 6. Recognition Rather than Recall
 #### 7. Flexibility and Efficiency of Use
