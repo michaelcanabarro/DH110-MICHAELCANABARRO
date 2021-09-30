@@ -33,7 +33,7 @@ The highlights of higher education-- lifelong friends, memories, and more-- are 
 
 ---
 
-## Website 1: 
+## Website 1: [Massachusetts Educational Financing Authority](https://www.mefa.org/)
 
 ### About
 
@@ -57,7 +57,7 @@ The highlights of higher education-- lifelong friends, memories, and more-- are 
 
 ---
 
-## Website 2: 
+## Website 2: [Massachusetts Department of Higher Education](https://www.mass.edu/home.asp)
 
 ### About
 
