@@ -6,7 +6,7 @@
 
 ### About the Project 
 
-The highlights of higher education-- lifelong friends, memories, and more-- are often publicized, especially in the digital age, when students' college experiences are often shared on social media platforms. However, behind this glamorous facade, accessibility has been, and still is, one of the greatest issues plaguing higher education. Even in the wake of affirmative action programs over the decades, minority and underrepresented groups still find themselves facing many barriers between them and the esteemed college experience. In this project, I hope to shed light on the issue of accessibility through the lens of user experience in the state of Massachusetts, home to some of the most well-known colleges and universities in the United States. What is the government doing to assist underrepresented groups and make college more accessible to them? Is the government providing information about these programs in a way that makes it easier or more difficult to learn about them? By answering these questions and ones that arise from them, I hope to examine one of many facets in which access to higher edication can be improved.
+The highlights of higher education-- lifelong friends, memories, and more-- are often publicized, especially in the digital age, when students' college experiences are often shared on social media platforms. However, behind this glamorous facade, accessibility has been, and still is, one of the greatest issues plaguing higher education. Even in the wake of affirmative action programs over the decades, minority and underrepresented groups still find themselves facing many barriers between them and the esteemed college experience. In this project, I hope to shed light on the issue of accessibility through the lens of user experience in the state of Massachusetts, home to some of the most well-known colleges and universities in the United States. What is the government doing to assist underrepresented groups and make college more accessible to them? Is the government providing information about these programs in a way that makes it easier or more difficult to learn about them? By answering these questions and ones that arise from them, I hope to examine one of many facets in which access to higher education can be improved.
 
 ---
 
@@ -73,6 +73,13 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 
 #### 5. Error Prevention
 #### 6. Recognition Rather than Recall
+
+![MEFA's "Pay for College" options](mefa_EFC.png)
+
+* For the most part, the website makes its features easily recognizable for users. However, there are some acronyms that are difficult to identify for new users and others unfamiliar with financial aid terminology. For example, the acronym "EFC" is used in one of the dropdown menus on the site. Only after clicking on it does a user learn that EFC stands for Expected Family Contribution. This could create confusion for users who don't recognize the acronym and potentially prevent them from using the feature due to unfamiliarity. **Severity Rating: 2**
+
+> Recommendation: Write out acronyms to make them easily identifiable and recognizable for all users of the website.
+
 #### 7. Flexibility and Efficiency of Use
 #### 8. Aesthetic and Minimal Design
 
