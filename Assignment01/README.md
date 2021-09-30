@@ -45,7 +45,11 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 
 #### 1. Visibility of System Status
 
-![MEFA's search bar function]()
+![MEFA's search bar function](mefa_searchbar.png)
+
+* As words are typed into the search bar, no potential searches appear underneath, no matter how many characters are typed. Without this information, it is difficult to tell how the website is responding to the input; this can only be discovered by pressing "Search." Although it isn't impossible, this extra step can make it tedious and time-consuming for a user to find what he or she is looking for. It also prevents users from knowing whether or not the website has any pages about the topic they are trying to search.
+
+> Recommendation: Add an autocomplete function on the search bar with potential search endings, perhaps sorted by popularity. This will help users spend less time looking for pages relevant to what they are trying to do.
 
 #### 2. Match Between System and the Real World
 #### 3. User Control and Freedom
