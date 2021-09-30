@@ -156,7 +156,7 @@ As with MEFA's evaluation, I will be examining OFSA's website from the perspecti
 
 #### 6. Recognition Rather than Recall
 
-![Options on OFSA's menu bar](OFSA_menubar.png)
+![Options on OFSA's menu bar](ofsa_menubar.png)
 
 * Although OFSA's website generally does a good job of making features recognizable, there are a few acronyms and names that may be unfamiliar to inexperienced users. Like MEFA's page, the meanings of the above names con only be found by clicking on them, which causes the user to spend time they might have used to find the information they needed.
 
@@ -164,7 +164,7 @@ As with MEFA's evaluation, I will be examining OFSA's website from the perspecti
 
 #### 7. Flexibility and Efficiency of Use
 
-
+* In terms of flexibility, the website does a good job of enabling ease of use by both students and schools; there are separate dropdown menus containing features specific to each party. As for efficiency, it makes searching for a financial aid program very easy, with a main "Financial Aid Programs" tab followed by dropdowns for various grants, waivers, loans, and scholarships. This subdivision of options reduced clutter in the menus, which enables efficient use, while making it easy for users to find exactly what they need with the option to browse by category. **Severity Rating: Satisfactory**
 
 #### 8. Aesthetic and Minimal Design
 
