@@ -47,7 +47,7 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 
 ![MEFA's search bar function](mefa_searchbar.png)
 
-* As words are typed into the search bar, no potential searches appear underneath, no matter how many characters are typed. Without this information, it is difficult to tell how the website is responding to the input; this can only be discovered by pressing "Search." Although it isn't impossible, this extra step can make it tedious and time-consuming for a user to find what he or she is looking for. It also prevents users from knowing whether or not the website has any pages about the topic they are trying to search.
+* As words are typed into the search bar, no potential searches appear underneath, no matter how many characters are typed. Without this information, it is difficult to tell how the website is responding to the input; this can only be discovered by pressing "Search." Although it isn't impossible, this extra step can make it tedious and time-consuming for a user to find what he or she is looking for. It also prevents users from knowing whether or not the website has any pages about the topic they are trying to search. **Severity Rating: 2**
 
 > Recommendation: Add an autocomplete function on the search bar with potential search endings, perhaps sorted by popularity. This will help users spend less time looking for pages relevant to what they are trying to do.
 
@@ -58,6 +58,13 @@ In my heuristic evaluation, I will focus on the perspective of a student who nee
 #### 6. Recognition Rather than Recall
 #### 7. Flexibility and Efficiency of Use
 #### 8. Aesthetic and Minimal Design
+
+![MEFA's homepage](mefa_landingpage.png)
+
+* MEFA's homepage is quite clean and simple. It prominently displays the organization's logo and mission statement to ensure users that they have reached the right place to search for financial aid. The various functions of the website are also consolidated well into four tabs on the dark blue menu bar, which helps to minimize clutter and cognitive load for users. If I had to pick a flaw, it would be that the distinct "Blog," "Events," Videos," and "Podcast" buttons at the top of the page might be dictracting for users looking for financial aid, considering they might be less popular features of the website. **Severity Rating: 1**
+
+> Recommendation: Condense options like "Blog," "Events," "Videos," and "Podcast" into an "Other" dropdown.
+
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors
 #### 10. Help and Documentation
 
