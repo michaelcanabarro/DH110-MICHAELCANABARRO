@@ -120,25 +120,66 @@ As seen in the heuristic evaluation, MEFA's search bar needs improvement, but it
 
 ---
 
-## Website 2: [Massachusetts Department of Higher Education](https://www.mass.edu/home.asp)
+## Website 2: [Massachusetts Department of Higher Education's Office of Student Financial Assistance](https://www.mass.edu/osfa/home/home.asp)
 
 ### About
 
-The
+The Office of Student Financial Assistance (OFSA) is a division of the Massachusetts Department of Higher Education. Like MEFA, it offers resources and tools related to financial aid; however, OFSA provides a broader range of these tools, from scholarships and grants to tuition waivers and reiumbursement.
+
+As with MEFA's evaluation, I will be examining OFSA's website from the perspective of a student interested in receiving financial support in order to gain clear insights into the benefits and consequences of its design.
 
 ## Heuristic Evaluation
 
 #### 1. Visibility of System Status
 
+![OFSA's search bar feature](OFSA_searchbar.png)
+
+* As seen above, OFSA's search bar also does not provide any feedback as information is entered into it. As a result, it is impossible to determine if and how the system is processing the query, which can make the website cumbersome to use. **Severity Rating: 2**
+
+> Recommendation: Include a feature that allows the search bar to autocomplete queries with popular or relevant responses, which will allow users to find the information they need faster.
 
 #### 2. Match Between System and the Real World
+
+
+
 #### 3. User Control and Freedom
+
+
+
 #### 4. Consistency and Standards
+
+
+
 #### 5. Error Prevention
+
+
+
 #### 6. Recognition Rather than Recall
+
+![Options on OFSA's menu bar](OFSA_menubar.png)
+
+* Although OFSA's website generally does a good job of making features recognizable, there are a few acronyms and names that may be unfamiliar to inexperienced users. Like MEFA's page, the meanings of the above names con only be found by clicking on them, which causes the user to spend time they might have used to find the information they needed.
+
+> Recommendation: Write out acronyms to reduce cognitive load for users who might not be familiar with them.
+
 #### 7. Flexibility and Efficiency of Use
+
+
+
 #### 8. Aesthetic and Minimal Design
+
+![OFSA's homepage](ofsa_homepage.png)
+
+* OFSA's website is fairly minimal, especially in its menu bar, which does a good job of condensing all of its features into a handful of categories. However, the news tile in the middle occupies a lot of room and dominates the user's field of view, which detracts from other perhaps more useful elements of the website. **Severity Rating: 1**
+
+> Recommendation: Replace the news tile with a feature that allows users to navigate the website, like icons or a more prominent search bar, or a brief description of OFSA to let users know they're in the right place.
+
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors
+
+
+
 #### 10. Help and Documentation
+
+* On the page for each scholarship or grant, many details are listed, including application instructions and information about eligibility that greatly assist users in identifying financial solutions that work for them. Linked to most of the individual pages are also PDF documents containing many details about each scholarship or grant. **Severity Rating: Satisfactory**
 
 ### Overall Evaluation
