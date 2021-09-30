@@ -39,22 +39,23 @@ The highlights of higher education-- lifelong friends, memories, and more-- are 
 
 The Massachusetts Education Financing Authority (MEFA) is a Massachusets state organization that aims to provide help at all stages of school planning, with an emphasis on financial planning. They offer plans for all levels of education, from pre-K to graduate school. In terms of financing, they offer resources to create savings plans, learn more about financial aid, and apply for a loan directly from MEFA. 
 
-In my heuristic evaluation, I will focus on the perspective of a student who needs financial aid in order to go to college and is interested in financial aid. From this point of view, ease of use will be crucial, as it could be the difference between applying for a loan-- and ultimately going to college-- or not.
+In my heuristic evaluation, I will focus on the perspective of a student who needs financial aid in order to go to college and is interested in applying for financial aid. From this point of view, ease of use will be crucial, as it could be the difference between applying for a loan-- and ultimately going to college-- or not.
 
 ### Heuristic Evaluation
 
-|**Heuristic**|**Notes**|**Recommendation(s)**|**Severity Rating**|
-|---|---|---|---|
-|**1. Visibility of System Status**|||
-|**2. Match Between System and the Real World**|||
-|**3. User Control and Freedom**|||
-|**4. Consistency and Standards**|||
-|**5. Error Prevention**|||
-|**6. Recognition Rather than Recall**|||
-|**7. Flexibility and Efficiency of Use**|||
-|**8. Aesthetic and Minimal Design**|||
-|**9. Help Users Recognize, Diagnose, and Recover from Errors**|||
-|**10. Help and Documentation**|||
+#### 1. Visibility of System Status
+
+![MEFA's search bar function]()
+
+#### 2. Match Between System and the Real World
+#### 3. User Control and Freedom
+#### 4. Consistency and Standards
+#### 5. Error Prevention
+#### 6. Recognition Rather than Recall
+#### 7. Flexibility and Efficiency of Use
+#### 8. Aesthetic and Minimal Design
+#### 9. Help Users Recognize, Diagnose, and Recover from Errors
+#### 10. Help and Documentation
 
 ### Overall Evaluation
 
@@ -68,17 +69,17 @@ The
 
 ## Heuristic Evaluation
 
-|**Heuristic**|**Notes**|**Recommendation(s)**|**Severity Rating**|
-|---|---|---|---|
-|**1. Visibility of System Status**|||
-|**2. Match Between System and the Real World**|||
-|**3. User Control and Freedom**|||
-|**4. Consistency and Standards**|||
-|**5. Error Prevention**|||
-|**6. Recognition Rather than Recall**|||
-|**7. Flexibility and Efficiency of Use**|||
-|**8. Aesthetic and Minimal Design**|||
-|**9. Help Users Recognize, Diagnose, and Recover from Errors**|||
-|**10. Help and Documentation**|||
+#### 1. Visibility of System Status
+
+
+#### 2. Match Between System and the Real World
+#### 3. User Control and Freedom
+#### 4. Consistency and Standards
+#### 5. Error Prevention
+#### 6. Recognition Rather than Recall
+#### 7. Flexibility and Efficiency of Use
+#### 8. Aesthetic and Minimal Design
+#### 9. Help Users Recognize, Diagnose, and Recover from Errors
+#### 10. Help and Documentation
 
 ### Overall Evaluation
