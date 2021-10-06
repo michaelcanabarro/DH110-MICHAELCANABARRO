@@ -30,6 +30,8 @@ To assess the severity of these issues, I'll be performing a usability test in w
 
 ## User Testing Video
 
+[Pilot UT Video](link)
+
 ---
 
 ## Findings and Conclusion
