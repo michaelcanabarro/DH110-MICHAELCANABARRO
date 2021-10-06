@@ -8,7 +8,9 @@
 
 Massachusetts' Office of Student Financial Assistance aims, as the name suggests, to provide Massachusetts students with resources pertaining to financial aid for school, with a focus on college. Its website contains links to many grants, scholarships, tuition waivers, and other financial aid programs. Given this information, the website appears to be an extremely valuable resources for students, parents, and schools alike when it comes to financing higher education; however, upon a heuristic evaluation of the site, three main issues stood out as challenging or unsatisfactory:
 
-**1.** 
+**1. Error Prevention** 
+
+During my heuristic evaluation, I noticed that the use of the search feature took me away from the OFSA website and back to the Massachusetts Department of Higher Education website. Given the aesthetic similarities of the two websites, this may confuse users who don't notice the change as they make the search.
 
 **2.**
 
