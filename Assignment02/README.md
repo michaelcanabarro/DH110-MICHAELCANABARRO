@@ -14,6 +14,8 @@ Massachusetts' Office of Student Financial Assistance aims, as the name suggests
 
 **3.**
 
+To assess the severity of these issues, I'll be performing a usability test in which a participant will be asked to complete various tasks, which will be detailed below. Usability testing is a necessary step in the user experience development process because, although expert feedback is important, the users are the ones ultimately using the website, so their ease of use and overall experience are important indicators of what needs to be addressed and how urgently. Through my own usability test, I hope to confirm the severity of the three issues listed above in order to gain a clearer picture of what I should focus on fixing later in the design process.
+
 ---
 
 ## Methodology
