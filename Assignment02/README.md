@@ -28,6 +28,8 @@ The test I conducted was designed to evaluate these the issues listed above thro
 |2|Type "financial" into the search field; do not press Enter<br>Press Enter; comment on the accuracy of the results<br>Now search "financial aid" and comment on the quality of these results|Visibility of System Status|
 |3|Using the menu bar, navigate to the page for the Police Career Incentive Pay Program|Recognition Rather than Recall|
 
+In terms of logistics, the pilot test was performed in a quiet room (if not quiet, headphones were used), with the participant on I on our personal computers. The test was conducted remotely via Zoom for the comfort of the participant as well as the recording capabilities offered by the program. I began with a quick introduction of myself and the website being studied, as well as the logistics and terms of the test. Before performing the tasks, the participant answered preliminary questions about the website to gauge initial thoughts and impressions. I then walked her through each of the three tasks, paying attention to both the time it took to complete each task as well as the manner in which it was completed (where the participant looked, if she needed help, etc.) in order to assess the problems posed in the introduction. She then answered post-test questions and I ended the recording, after which she completed demographic questions to ensure privacy. Finally, I thanked her for her participation in the study and sent her on her way. 
+
 ---
 
 ## User Testing Materials
