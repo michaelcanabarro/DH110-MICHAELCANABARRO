@@ -20,6 +20,14 @@ To further assess the severity of these issues, I'll be performing a usability t
 
 ## Methodology
 
+The test I conducted was designed to evaluate these the issues listed above through the performance of three tasks, each focusing on a different issue. The tasks were as follows:
+
+|Task Number|Task|Tested Heuristic|
+|---|---|---|
+|1|Initiate a search for "John and Abigail Adams"<br>Comment on the relevance of the first few search results<br>Navigate back to the OSFA homepage|Error Prevention|
+|2|Type "financial" into the search field; do not press Enter<br>Press Enter; comment on the accuracy of the results<br>Now search "financial aid" and comment on the quality of these results|Visibility of System Status|
+|3|Using the menu bar, navigate to the page for the Police Career Incentive Pay Program|Recognition Rather than Recall|
+
 ---
 
 ## User Testing Materials
@@ -30,7 +38,7 @@ To further assess the severity of these issues, I'll be performing a usability t
 
 ## User Testing Video
 
-[Pilot UT Video](link)
+[Pilot UT Video](https://drive.google.com/file/d/15R6RJ9i_sYgFMV09IFq-oxg4UmqWm9RP/view?usp=sharing)
 
 ---
 
