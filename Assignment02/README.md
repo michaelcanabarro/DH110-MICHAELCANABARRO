@@ -34,7 +34,9 @@ In terms of logistics, the pilot test was performed in a quiet room (if not quie
 
 ## User Testing Materials
 
-[User Testing Materials](https://docs.google.com/forms/d/e/1FAIpQLScFeTBZxnV9dVeSD4wd7JMWjtbUD0PmKyqynDnDGyPlq5J4GA/viewform?usp=sf_link)
+[Public link](https://docs.google.com/forms/d/e/1FAIpQLScFeTBZxnV9dVeSD4wd7JMWjtbUD0PmKyqynDnDGyPlq5J4GA/viewform?usp=sf_link)
+
+([Collaborator link](https://docs.google.com/forms/d/1AwnoztPXk2gKoLIiPl-erAnY63FgpjOQ0jNS6FWJPFU/edit?usp=sharing))
 
 ---
 
