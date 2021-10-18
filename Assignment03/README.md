@@ -32,7 +32,7 @@ The guide I used for this interview can be found [here](https://docs.google.com/
 
 ### Interview Documentation
 
-[Click here](link) to watch the recording of the interview.
+Click [here](link) to watch the recording of the interview.
 
 The complete interview transcript can be found [here](https://docs.google.com/document/d/11-YBCprfqmCyhi3BBXtQVV2V1c9HWnIVSx581nlIawI/edit?usp=sharing).
 
