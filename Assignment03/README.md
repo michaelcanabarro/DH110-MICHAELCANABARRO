@@ -28,7 +28,7 @@ A limitation I have seen is that the resources available to students are both fr
 
 #### What are the characteristics of users?
 
-The main demographics involved with this activity include high school students (ages ~15-18) and their parents. Specifically, ideal users are students who are planning for college. They might have some familiarity with state government resources and websites, but not a lot; however, the activity does not require any expertise. As for preferences, both students and parents are busy, so they prefer to be able to find information quickly and efficiently so as to not waste a lot of time. Additionally, while younger students are more tech-savvy, their parents prefer services that are easy to use and navigate. 
+The main demographics involved with this activity include high school students (ages ~15-18) and their parents. Specifically, ideal users are students who are planning for college. They might have some familiarity with state government resources and websites, but not a lot; however, the activity does not require any expertise, and my goal is to cater to both extremes (those who know many resources and those who are just starting to look). As for preferences, both students and parents are busy, so they prefer to be able to find information quickly and efficiently so as to not waste a lot of time. Additionally, while younger students are more tech-savvy, their parents prefer services that are easy to use and navigate. 
 
 #### In which context would the users do that activity?
 
