@@ -42,7 +42,7 @@ Currently, users would likely perform a Google search or, more so in the case of
 
 To gain insights about how my website could be useful to and serve a broad range of users, I conducted a contextual inquiry. Specifically, I interviewed my guest over Zoom because it allowed us to meet conveniently while being as health-conscious as possible. Additionally, Zoom made a great choice because of its recording capabilities, which allowed me to overtly observe and the record the participant, who was made aware of the recording.
 
-During the interview itself, I did not take any notes so as to remain as involved and engaged with the participant as possible. I did, however, record and transcribe the interview, which I used for my analysis.
+During the interview itself, I did not take any notes so as to remain as involved and engaged with the participant as possible. I did, however, record and transcribe the interview to collect a comprehensive account, which I used for my analysis.
 
 ---
 
