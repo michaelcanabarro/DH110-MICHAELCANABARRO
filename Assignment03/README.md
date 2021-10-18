@@ -28,13 +28,13 @@ text?
 
 ### Guide
 
-(link to guide)
+The guide I used for this interview can be found [here](https://docs.google.com/document/d/1V8l_pHi5KCO-joCm9zvMVwZx-ftAOePM474e15fyGiY/edit?usp=sharing).
 
 ### Interview Documentation
 
 (link to video)
 
-(link to transcript)
+The complete interview transcript can be found [here](https://docs.google.com/document/d/11-YBCprfqmCyhi3BBXtQVV2V1c9HWnIVSx581nlIawI/edit?usp=sharing).
 
 ### Key Insights and Quotes
 
