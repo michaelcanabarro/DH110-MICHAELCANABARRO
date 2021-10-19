@@ -71,7 +71,9 @@ The complete interview transcript can be found [here](https://docs.google.com/do
 #### 3. Clarity is key for first-time financial aid searchers, especially with regards to the reputability of the website, considering that financial aid is a high-stakes issue
 
 > "I feel like it could be a bit clearer about what this actually is, because obviously it's student financial assistance, but where exactly this is from I feel like \[they] could be a bit more specific. Obviously I did choose Massachusetts financial aid universities and this is what came up, but I feel like the website itself could use a little bit more clarity, just because financial assistance could be for a lot of different things."
+
 > "I feel like a little \[logo at the top of the page] would have been beneficial."
+
 > "Like I mentioned earlier, a lot of students, they're applying for financial aid for the first time, going to university, it's something very big, and it's also a very large commitment. The information should be very clear, very transparent because \[college] is a big financial dedication whether you get financial aid or not."
 
 #### 4. The organization of the content on the website is also crucial; it must be intuitive and facilitate efficient searching by users
