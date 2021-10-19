@@ -48,24 +48,42 @@ During the interview itself, I did not take any notes so as to remain as involve
 
 ## Materials and User Data
 
-text?
-
 ### Guide
 
 The guide I used for this interview can be found [here](https://docs.google.com/document/d/1V8l_pHi5KCO-joCm9zvMVwZx-ftAOePM474e15fyGiY/edit?usp=sharing).
 
 ### Interview Documentation
 
-Click [here](link) to watch the recording of the interview.
+Click [here](https://drive.google.com/file/d/1CtPePyMxbjLxA8mKtkorsFxfHGIUWlKz/view?usp=sharing) to watch the recording of the interview.
 
 The complete interview transcript can be found [here](https://docs.google.com/document/d/11-YBCprfqmCyhi3BBXtQVV2V1c9HWnIVSx581nlIawI/edit?usp=sharing).
 
 ### Key Insights and Quotes
 
-text
+#### 1. The user appreciates a wide variety of aid options, especially during an initial, exploratory search
+
+> "Just from browsing quickly here, it feels like they have a variety of different options in one place, which I think is very important. So there's grants, scholarships, tuition waivers, loans... I think that's pretty nice."
+
+#### 2. At the same time, the information needs to be quickly accessible and navigable; the user's initial searches aren't long
+
+> "At least for a quick initial search, \[I'd take] probably thirty minutes, maybe a bit more, just to gather material."
+
+#### 3. Clarity is key for first-time financial aid searchers, especially with regards to the reputability of the website, considering that financial aid is a high-stakes issue
+
+> "I feel like it could be a bit clearer about what this actually is, because obviously it's student financial assistance, but where exactly this is from I feel like \[they] could be a bit more specific. Obviously I did choose Massachusetts financial aid universities and this is what came up, but I feel like the website itself could use a little bit more clarity, just because financial assistance could be for a lot of different things."
+> "I feel like a little \[logo at the top of the page] would have been beneficial."
+> "Like I mentioned earlier, a lot of students, they're applying for financial aid for the first time, going to university, it's something very big, and it's also a very large commitment. The information should be very clear, very transparent because \[college] is a big financial dedication whether you get financial aid or not."
+
+#### 4. The organization of the content on the website is also crucial; it must be intuitive and facilitate efficient searching by users
+
+> "Espscially if students are applying to university for the first time, it can be a little overwhelming if it's the first time they're engaging with this type of content, so having a clear website or making sure all the information is laid out correctly and functioning will help their financial aid research."
+
+#### 5. Students can benefit from being eased into search topics and finding resources with questions
+
+> "Something I would add would be like frequently asked questions, you know, like basic things like "What is financial aid?" "Where can I get financial aid?" "Do people qualify for financial aid?" and it also links back to all these different resources on the website would be good, because for students, I feel like sometimes they don't know what they don't know, and by having these questions, it's... a guide to help them figure out what they need. It's almost like when a teacher asks us a question to guide us to thinking the right things."
 
 ---
 
 ## Reflection
 
-text
+Overall, the contextual inquiry process was very enlightening and useful for me. Going in, I had my own preconceived notions of what a "good" website would be, given my short experience in User Experience and Design thus far. However, after performing contextual inquiry, it was fascinating to see from the perspective of someone who might use the website I'm trying to design. The participant I chose gave thorough, insightful answers that can easily be used to inform design decisions for the final product. However, I personally found it a bit difficult to stick to my guide, as inevitable conversation can wander. At points, it felt like I was preventing a more natural conversation from developing to stick to the script. This may have been due to my interviewing style or the choices of questions in my guide, but in any case it's something I will look to improve for future iterations. But, overall, this experience was extremely beneficial for me; it taught me the importance of staying in touch with users, as well as understanding their needs and wants, to design the best possible product.
