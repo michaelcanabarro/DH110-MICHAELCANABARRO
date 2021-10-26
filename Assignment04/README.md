@@ -6,7 +6,7 @@
 
 ## Introduction
 
-text
+UX Storytelling plays an important role in a successful user experience project, allowing designers to gain important insights about the users they want to serve and detach their personal biases from their work. In this exercise, I will be presenting two hypothetical users for Financial Aid Hub (FAHub), a website that acts as a one-stop-shop for students' financial aid needs. By looking at how users behave and the goals they have, I hope to learn more about the ways in which they will actually use the product, which will ultimately help me to better design a product that will suit their needs.
 
 ---
 
@@ -64,4 +64,4 @@ Tina opens FAHub with the hopes of finding a handful of sources that could suit 
 
 ## Reflection
 
-text
+This exercise provided me with valuable insights about the people my website is hoping to serve. Creating user personas was refreshing in that it forced me to think about a diverse range of users who might interact with my product, not just myself or one specific type of user. By looking at their individual needs, I was able to come up with two similar features that should serve their varying requirements. In the end, I was able to think outside of myself to think more about my users and their thought processes, which I believe will be very valuable in informing the design of my final product.
