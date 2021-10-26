@@ -12,25 +12,25 @@ text
 
 ## User Personas & Empathy Maps
 
-### Persona 1: 
+### Persona 1: Jackson Smith
 
-#### 's Empathy Map
+#### Jackson's Empathy Map
 
-### Persona 2:
+### Persona 2: Tina Perez
 
-#### 's Empathy Map
+#### Tina's Empathy Map
 
 ---
 
 ## User Scenarios & Journey Maps
 
-### 's Scenario
+### Jackson's Scenario
 
-#### 's Journey Map
+#### Jackson's Journey Map
 
-### 's Scenario
+### Tina's Scenario
 
-#### 's Journey Map
+#### Tina's Journey Map
 
 ---
 
