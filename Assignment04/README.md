@@ -50,9 +50,15 @@ After a long day of school, work, and homework, Jackson is finally able to do so
 
 #### Why Tina is using this product
 
+Why: Tina is a stay-at-home mother who takes care of her four children. Her eldest child, a daughter, is a senior in high school and has just begun the college admissions process. So, Tina has quickly become preoccupied with helping her in any capacity. She very much loves her children, so she takes it as a big responsibility to help them reach the schools of their dreams. She also considers it her duty to help out her husband, who is the breadwinner of the family. She wants to look for financial aid solutions for her daughter so that her husband does not need to overwork himself to get her through college. Since Tina already takes care of her other three kids, who are in elementary, middle, and high school, respectively, she does not have a lot of spare time to search for financial aid solutions. What’s more, her age makes her not very tech-savvy, and she struggles when faced with overly complex or unintuitive web interfaces. As a result, she wants a resource that allows her to see what aid can be offered to her daughter, while at the same time being easy enough to use for someone without much tech experience such as herself.
+
 #### How Tina is using this product
 
+Tina opens FAHub with the hopes of finding a handful of sources that could suit her daughter, now that she has time after putting all of her kids to bed. On the homepage, she is faced with a minimal, sleek design with a noticeable Menu button in the top-left corner. After clicking it, she looks at the available options, and clicks “Open Program Search,” since she doesn’t have a specific category in mind. On the search landing page, she sees many results, but also an array of dropdown menus that correspond with the various filters she can put on her search to make things more efficient. Unlike Jackson, she has to use the filters rather than the toggle switch because she did not figure out how to make an account; as a result, her daughter’s information is not pre-saved on the website and cannot be used. Nevertheless, she is able to navigate the filters relatively easily, entering important information about her daughter. As she adjusts each one, her results become more and more suitable, until the point at which her daughter could be eligible for any one. She browses a few options, and takes note of them to talk to her daughter the next day. After her searching is done, she notices an option to make a profile with the information she entered into the filters. She is guided through the profile creation process, with the appropriate information auto-filled from the filters. She makes her account successfully and ends the night feeling satisfied with her accomplishments.
+
 #### Tina's Journey Map
+
+![image](https://user-images.githubusercontent.com/91518358/138834808-ed58aa9d-fd7e-439c-8dbe-09b054ea3828.png)
 
 ---
 
