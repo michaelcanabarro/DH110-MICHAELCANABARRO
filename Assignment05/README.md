@@ -12,9 +12,11 @@ In Assignments 1-4, I have laid the theoretical foundation for my website and go
 
 ## Wireframes & Wireflows
 
-### Task 1: Browsing Options with Quick View Mode (starts with clicking on Menu icon)
+Below are the wireflows I created for use in my user testing.
 
-### Task 2: Narrowing Search with Selective Filters (starts with clicking on Search bar)
+Task 1: Browsing Options with Quick View Mode (starts with clicking on Menu icon)
+
+Task 2: Narrowing Search with Selective Filters (starts with clicking on Search bar)
 
 ![](https://user-images.githubusercontent.com/91518358/139784719-d27bfa76-2b3b-4492-8a8e-e21428277604.jpg)
 ![](https://user-images.githubusercontent.com/91518358/139784715-e628c851-cba3-4616-9e0a-89b05ba9668a.jpg)
@@ -25,7 +27,9 @@ In Assignments 1-4, I have laid the theoretical foundation for my website and go
 
 ## Testing
 
-text
+Click [here](link) to watch the test I conducted with my wireflows.
+
+Here is the flow my user followed during the test, annotated with observations from the test.
 
 ---
 
