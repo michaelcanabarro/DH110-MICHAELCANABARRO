@@ -12,7 +12,7 @@ In Assignments 1-4, I have laid the theoretical foundation for my website and go
 
 ## Wireframes & Wireflows
 
-Below are the wireflows I created for use in my user testing. It details the entire system, which encompasses the following two tasks:
+Below are the wireframes I created for use in my user testing, with arrows indicating the flows between them. They detail the entire system, which encompasses the following two tasks:
 
 Task 1: Browsing Options with Quick View Mode (starts with clicking on Menu icon)
 
