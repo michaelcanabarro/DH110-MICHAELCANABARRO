@@ -12,13 +12,14 @@ In Assignments 1-4, I have laid the theoretical foundation for my website and go
 
 ## Wireframes & Wireflows
 
-### Task 1: Browsing Options with Quick View Mode
+### Task 1: Browsing Options with Quick View Mode (starts with clicking on Menu icon)
 
-(image)
+### Task 2: Narrowing Search with Selective Filters (starts with clicking on Search bar)
 
-### Task 2: Narrowing Search with Selective Filters
-
-(image)
+![](https://user-images.githubusercontent.com/91518358/139784719-d27bfa76-2b3b-4492-8a8e-e21428277604.jpg)
+![](https://user-images.githubusercontent.com/91518358/139784715-e628c851-cba3-4616-9e0a-89b05ba9668a.jpg)
+![](https://user-images.githubusercontent.com/91518358/139784712-9f707346-4705-46ef-afca-a24a1400229e.jpg)
+![](https://user-images.githubusercontent.com/91518358/139784979-589b14f3-909e-435d-80f7-e8de75651292.jpg)
 
 ---
 
