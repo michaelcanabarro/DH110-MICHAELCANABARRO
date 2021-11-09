@@ -79,6 +79,8 @@ To ensure the accessibility of the website, I tested both the light and dark mod
 <img width="598" alt="A06_Contrast_Light" src="https://user-images.githubusercontent.com/91518358/140871410-d72067cf-c268-4e24-bab6-53ae23de706d.png">
 <img width="597" alt="A06_Contrast_Dark" src="https://user-images.githubusercontent.com/91518358/140871425-8493b4de-1561-4abe-b4e1-45769560af7f.png">
 
+---
+
 ## Reflection
 
 As with the past assignments, the interface design process was very enlightening for me. I learned a lot about the great degree of planning and intention that goes into every element in a design, from laying out a grid to making subtle tweaks to shapes, fonts, and more. The impression test was yet another testament to the importance of user feedback in the design process; it was interesting to see the preferences my participant had and how strongly she felt about some of the elements, especially the button shape. In hindsight, I could have tested more different variations in each category; for example, I could have changed the size of the fonts or the layout of the buttons on the page. My designs were admittedly similar in overall composition, so further testing will be needed to determine if the actual layout is something that users will like. But, this round of testing gave me useful insights into which elements I would feel more comfortable continuing with as opposed to others. I enjoyed the process a lot, and I will be sure to incorporate my findings into future iterations and conduct more testing where necessary so that the final product can be the best it can be.
