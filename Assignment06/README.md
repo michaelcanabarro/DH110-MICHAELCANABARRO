@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In Assignment 5, I built the basic structure of my website based on the findings from Assignments 1-4. For this assignment, I will be elaborating on that structure and exploring the more cosmetic features of my website, from button shapes and layouts to font selection. I will also be conducting an impression test with a user to help determine which variation is the most desirable for the people who will be using the website and test it to ensure adherence to accessibility standards. In completing these tasks, I hope to gain an even clearer vision of what the final product will look like thanks to valuable information from user feedback.
+In [Assignment 5](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md), I built the basic structure of my website based on the findings from Assignments 1-4. For this assignment, I will be elaborating on that structure and exploring the more cosmetic features of my website, from button shapes and layouts to font selection. I will also be conducting an impression test with a user to help determine which variation is the most desirable for the people who will be using the website and test it to ensure adherence to accessibility standards. In completing these tasks, I hope to gain an even clearer vision of what the final product will look like thanks to valuable information from user feedback.
 
 ---
 
