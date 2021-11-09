@@ -22,7 +22,7 @@ Below are screenshots of the various screens of my website, according to the wir
 
 ### Grid Test
 
-Here is a screenshot capturing the homepage's adherence to the grid system referred to in class. For this website, I used a 6x11 grid to allow for more versatility in the design.
+Here is a screenshot capturing the homepage's adherence to the grid system referred to in class. For this website, I used a 6x11 grid to allow for versatility in the design while retaining a visible structure.
 
 <img width="199" alt="A06_Grid" src="https://user-images.githubusercontent.com/91518358/140866341-55e80932-fda7-4e74-bd9c-cce343a8f571.png">
 
