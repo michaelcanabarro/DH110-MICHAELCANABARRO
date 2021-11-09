@@ -20,7 +20,7 @@ Below are screenshots of the various screens of my website, according to the wir
 <img width="542" alt="A06_Screens_4" src="https://user-images.githubusercontent.com/91518358/140865197-c48e7f09-67c0-4ecf-b368-c5d5d6f3bb5f.png">
 <img width="546" alt="A06_Screens_5" src="https://user-images.githubusercontent.com/91518358/140865198-0e43bf79-b336-4821-9393-1014f23d1c53.png">
 
-### Grid Test
+### Layout Test
 
 Here is a screenshot capturing the homepage's adherence to the grid system referred to in class. For this website, I used a 6x11 grid to allow for versatility in the design while retaining a visible structure.
 
