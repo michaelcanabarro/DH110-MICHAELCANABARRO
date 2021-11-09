@@ -12,7 +12,7 @@ In Assignment 5, I built the basic structure of my website based on the findings
 
 ## Screen Designs
 
-Below are screenshots of the various screens of my website, according to the wireflows and tasks outlined in Assignment 5. Click [here](https://www.figma.com/file/5E9fUXyux4GbmlvOCSaLfL/A06_Digitized_Wireflows?node-id=0%3A1) to access the Figma file I used, which includes a clickable prototype (click "Prototype" on the right, then press the Play button next to Flow 1 on the first screen).
+Below are screenshots of the various screens of my website, according to the wireflows and tasks outlined in [Assignment 5](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md). Click [here](https://www.figma.com/file/5E9fUXyux4GbmlvOCSaLfL/A06_Digitized_Wireflows?node-id=0%3A1) to access the Figma file I used, which includes a clickable prototype (click "Prototype" on the right, then press the Play button next to Flow 1 on the first screen).
 
 <img width="543" alt="A06_screens_1" src="https://user-images.githubusercontent.com/91518358/140865188-3b7c7a64-7a76-4910-9f5a-2ed05ff88d2f.png">
 <img width="540" alt="A06_Screens_2" src="https://user-images.githubusercontent.com/91518358/140865194-e1eef56c-a657-4fb3-9682-be17636bfcfe.png">
@@ -42,7 +42,7 @@ I tested a rounded rectangle shape, as well as an extreme sharp-cornered rectang
 
 For colors, I created a light mode and dark mode for my website. I used a cream base on the light mode version to avoid a bright white background, which can cause eye strain and waste screen power. On that variation, I also focused on making the buttons and text pop to make users aware of their options. For the dark mode, I more or less inverted the color scheme of the light mode, with a notable exception being the button colors, which remained dark blue. This was mainly to preserve the darkness of the screen; instead, I made the buttons more noticeable by making the border color white, which has a greater contrast with the background color.
 
-<img width="389" alt="A06_Color" src="https://user-images.githubusercontent.com/91518358/140870258-ce0f0a9d-16e1-4a78-aea9-c28d2de439b4.png">
+<img width="373" alt="A06_Color" src="https://user-images.githubusercontent.com/91518358/140870545-ced2f5b9-d671-4086-a056-5aae4f035796.png">
 
 ---
 
