@@ -12,7 +12,7 @@ In Assignment 5, I built the basic structure of my website based on the findings
 
 ## Screen Designs
 
-Below are screenshots of the various screens of my website, according to the wireflows and tasks outlined in [Assignment 5](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md). Click [here](https://www.figma.com/file/5E9fUXyux4GbmlvOCSaLfL/A06_Digitized_Wireflows?node-id=0%3A1) to access the Figma file I used, which includes a clickable prototype (click "Prototype" on the right, then press the Play button next to Flow 1 on the first screen).
+Below are screenshots of the various screens of my website, according to the wireflows and tasks outlined in [Assignment 5](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md). Click [here](https://www.figma.com/file/5E9fUXyux4GbmlvOCSaLfL/A06_Digitized_Wireflows?node-id=0%3A1) to access the Figma file I used, which includes a clickable prototype (click "Prototype" on the right, then press the Play button next to Flow 1 on the first screen). Saved graphic design system information, including fonts and sizes, colors, and grid layouts, can be found there as well.
 
 <img width="543" alt="A06_screens_1" src="https://user-images.githubusercontent.com/91518358/140865188-3b7c7a64-7a76-4910-9f5a-2ed05ff88d2f.png">
 <img width="540" alt="A06_Screens_2" src="https://user-images.githubusercontent.com/91518358/140865194-e1eef56c-a657-4fb3-9682-be17636bfcfe.png">
@@ -54,7 +54,10 @@ text
 
 ## Accessibility Test
 
-text + images
+To ensure the accessibility of the website, I tested both the light and dark mode variations with the [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark) plugin on Figma. As seen below, both color schemes meet both AA and AAA standards by a good margin:
+
+<img width="598" alt="A06_Contrast_Light" src="https://user-images.githubusercontent.com/91518358/140871410-d72067cf-c268-4e24-bab6-53ae23de706d.png">
+<img width="597" alt="A06_Contrast_Dark" src="https://user-images.githubusercontent.com/91518358/140871425-8493b4de-1561-4abe-b4e1-45769560af7f.png">
 
 ## Reflection
 
