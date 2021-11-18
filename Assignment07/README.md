@@ -35,7 +35,7 @@ Both tasks start at the homepage (1st screen) and end at the full-screen page fo
 
 ## Wireflow with Interface Design
 
-Here is the link to the Figma file for my [wireflow](https://www.figma.com/file/zj76GQX7aLTkRO0TeGNe4C/A07_Wireflow). The wireflow, which is not interactive, contains arrows indicating the progression for each task; Task 1 is in green, and Task 2 is in blue. I used the [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) plugin to create these wireflows.
+Here is the link to the Figma file for my [wireflow](https://www.figma.com/file/zj76GQX7aLTkRO0TeGNe4C/A07_Wireflow). The wireflow is not intended to be used interactively, but rather as a map for each task. It contains arrows indicating the progression for each task; Task 1 is in green, and Task 2 is in blue. I used the [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) plugin to create these wireflows.
 
 ---
 
