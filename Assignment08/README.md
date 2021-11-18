@@ -42,7 +42,7 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 9) High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
-### (OPTIONAL) Evaluationa and Revision History
+### (OPTIONAL) Evaluation and Revision History
 
 10) Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
