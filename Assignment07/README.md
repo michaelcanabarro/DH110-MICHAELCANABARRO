@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In the assignments building up to this stage, I assembled all of the necessary information and feedback to create a viable prototype for my website. Now, for this assignment, I will be creating the first functional prototype of my app. As one of the last stages in the design process, this will give me the best-possible look and feel for how the app will work. Because of this, it will allow me to test its functionality with others, which I will do in the form of a cognitive walkthrough. From this test, I hope to get some relatively final feedback so that I can perfect the design in any way necessary before I publish the complete version
+In the assignments building up to this stage, I assembled all of the necessary information and feedback to create a viable prototype for my website. Now, for this assignment, I will be creating the first functional prototype of my app, implementing the design suggestions made in [Assignment 06](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment06/README.md). As one of the last stages in the design process, this will give me the best-possible look and feel for how the app will work. Because of this, it will allow me to test its functionality with others, which I will do in the form of a cognitive walkthrough. From this test, I hope to get some relatively final feedback so that I can perfect the design in any way necessary before I publish the complete version
 
 ---
 
