@@ -35,7 +35,12 @@ Both tasks start at the homepage (1st screen) and end at the full-screen page fo
 
 ## Wireflow with Interface Design
 
-Here is the link to the Figma file for my [wireflow](https://www.figma.com/file/zj76GQX7aLTkRO0TeGNe4C/A07_Wireflow). The wireflow is not intended to be used interactively, but rather as a map for each task. It contains arrows indicating the progression for each task; Task 1 is in green, and Task 2 is in blue. I used the [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) plugin to create these wireflows.
+Here is the link to the Figma file for my [wireflow](https://www.figma.com/file/zj76GQX7aLTkRO0TeGNe4C/A07_Wireflow), and images are provided below. The wireflow is not intended to be used interactively, but rather as a map for each task. It contains arrows indicating the progression for each task; Task 1 is in green, and Task 2 is in blue. I used the [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) plugin to create these wireflows.
+
+<img width="732" alt="A07_Wireflow1" src="https://user-images.githubusercontent.com/91518358/142358466-c7d3136e-4588-4c4f-86aa-0968030af9e7.png">
+<img width="740" alt="A07_Wireflow2" src="https://user-images.githubusercontent.com/91518358/142358475-df11cc1f-7a68-4023-90fb-1e23c4fd1675.png">
+<img width="734" alt="A07_Wireflow3" src="https://user-images.githubusercontent.com/91518358/142358477-f15dc8e0-634e-4a03-8c39-b1568aff94b4.png">
+<img width="734" alt="A07_Wireflow4" src="https://user-images.githubusercontent.com/91518358/142358481-8f16646b-275a-4fad-87e4-82aeb2b09d68.png">
 
 ---
 
