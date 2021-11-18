@@ -14,7 +14,7 @@ In the assignments building up to this stage, I assembled all of the necessary i
 
 Here is the link to the Figma file for my [interactive prototype](https://www.figma.com/file/SYk9wIRYr2TM25RjYTKT0J/A07_InteractivePrototype?node-id=0%3A1). To use it, click on the black "play" button at the top-right corner of the screen.
 
-*Disclaimer: This prototype does not support every possible combination of actions seen on the screen.* It supports the following actions:*
+*Disclaimer: This prototype does not support every possible combination of actions seen on the screen.* It supports the following actions:
 
 **Task 1: Finding scholarships with menu and buttons
 
@@ -29,6 +29,7 @@ Here is the link to the Figma file for my [interactive prototype](https://www.fi
 - Applying the same sort and filter features mentioned above, but with an added "type" distinction, where scholarships can be selected (again, sorting must be applied before filters in this prototype)
 - Clicking on the John and Abigail Adams scholarship, both in and out of quick-view mode, to find more information
 
+Both tasks start at the homepage (1st screen) and end at the full-screen page for the John and Abigail Adams Scholarship.
 
 ---
 
@@ -40,7 +41,7 @@ Here is the link to the Figma file for my [wireflow]. The wireflow, which is not
 
 ## Cognitive Walkthrough
 
-text
+Before finding participants for my cognitive walkthrough, I actually altered my prototype based on the feedback I got during my in-class impression test and cognitive walkthrough, which was done on my [previous version](https://www.figma.com/file/5E9fUXyux4GbmlvOCSaLfL/A06_Digitized_Wireflows?node-id=0%3A1). I made it more clear on the homepage what MA FA Hub's function was, reworded the "Getting Started" button (a peer said it was difficult to determine if that meant getting started with financial aid or not), and added sort and filter features for the button-navigated portion of the site in addition to the search bar, which my testers said would be more convenient. 
 
 ---
 
