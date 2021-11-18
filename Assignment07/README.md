@@ -16,14 +16,14 @@ Here is the link to the Figma file for my [interactive prototype](https://www.fi
 
 *Disclaimer: This prototype does not support every possible combination of actions seen on the screen.* It supports the following actions:
 
-**Task 1: Finding scholarships with menu and buttons
+**Task 1: Finding scholarships with menu and buttons**
 
 - Finding scholarships with the menu and other buttons
 - Toggling between any combination of quick-view mode (allows you to view more information at a glance) and showing eligible options (according to information entered by users on their accounts; accounts are not supported by this prototype currently)
 - Sorting scholarships by descending dollar amount (due to time constraints, I could not implement every feature of the sort dropdown)
 - Applying dollar amount and deadline filters to scholarships (again due to time constraints, sorting and filters can only be applied after toggling both quick-view mode and eligible options, and sorting must be applied first)
 
-**Task 2: Finding scholarships using the search bar feature
+**Task 2: Finding scholarships using the search bar feature**
 
 - Using the search bar to search "financial aid"
 - Applying the same sort and filter features mentioned above, but with an added "type" distinction, where scholarships can be selected (again, sorting must be applied before filters in this prototype)
