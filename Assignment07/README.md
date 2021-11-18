@@ -12,7 +12,7 @@ In the assignments building up to this stage, I assembled all of the necessary i
 
 ## Interactive Prototype
 
-Here is the link to the Figma file for my [interactive prototype](https://www.figma.com/file/SYk9wIRYr2TM25RjYTKT0J/A07_InteractivePrototype?node-id=0%3A1). To use it, click on the black "play" button at the top-right corner of the screen.
+Here is the link to the Figma file for my [interactive prototype](https://www.figma.com/file/SYk9wIRYr2TM25RjYTKT0J/A07_InteractivePrototype). To use it, click on the black "play" button at the top-right corner of the screen.
 
 *Disclaimer: This prototype does not support every possible combination of actions seen on the screen.* It supports the following actions:
 
@@ -35,7 +35,7 @@ Both tasks start at the homepage (1st screen) and end at the full-screen page fo
 
 ## Wireflow with Interface Design
 
-Here is the link to the Figma file for my [wireflow](https://www.figma.com/file/SYk9wIRYr2TM25RjYTKT0J/A07_InteractivePrototype?node-id=0%3A1). The wireflow, which is not interactive, contains arrows indicating the progression for each task; Task 1 is in green, and Task 2 is in blue. I used the [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) plugin to create these wireflows.
+Here is the link to the Figma file for my [wireflow](https://www.figma.com/file/zj76GQX7aLTkRO0TeGNe4C/A07_Wireflow). The wireflow, which is not interactive, contains arrows indicating the progression for each task; Task 1 is in green, and Task 2 is in blue. I used the [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) plugin to create these wireflows.
 
 ---
 
