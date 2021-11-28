@@ -1,4 +1,4 @@
-# Government Support for Access to Financial Aid in Massachusetts
+# Designing a Financial Aid App for Massachusetts Students
 
 ## Michael Canabarro | DH 110 | Fall 2021
 
@@ -8,6 +8,8 @@
 
 a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
+
+This project is centered around designing an app that Massachusetts students could use for all of their financial aid needs. As college and university tuition rates continue to increase, financial aid is becoming even more important than ever. This is especially true with regards to the accessibility of higher education; for many, financial aid is the difference between attending one's dream school or not. Because of this, I wanted to design an application that streamlined the financial aid search process while being flexible enough to cater to a diverse student body. At the same time, because older family members and guardians may help their children search for and apply to financial aid, I sought to make the app straightforward enough to fulfill the wants and needs of both young and old users. After looking at competitors, conducting many rounds of research and tests, and designing several prototypes, the result was MA FA Hub, an all-in-one app to meet Massachusetts students' every financial aid need.
 
 ### Design Statement
 
