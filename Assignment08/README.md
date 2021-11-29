@@ -10,13 +10,9 @@ This project is centered around designing an app that Massachusetts students cou
 
 ### Design Statement
 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-
 The goal of this design project is to create a website that makes the task of researching and finding financial aid resources easier and more efficient for students who need it. By making it easier to locate financial aid, I hope to increase students' chances of being able to attend the schools of their dreams, making higher education more accessible.
 
 ### Competitor Analysis
-
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 To get a better idea of how existing financial aid websites work as well as the websites that would be competing with MA FA Hub, I evaluated the websites of the Massachusetts Educational Financing Authority (MEFA) and Massachusetts Office of Student Financial Assistance (OSFA) using [Jakob Nielsen's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). While both websites were by no means bad, they had elements that were cumbersome, unfamiliar or both, which limited their accessibility-- in the case of financial aid, this inaccessibility could be the difference between attending or not attending a particular school. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment01/README.md)
 
