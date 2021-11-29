@@ -16,17 +16,18 @@ The goal of this design project is to create a website that makes the task of re
 
 To get a better idea of how existing financial aid websites work as well as the websites that would be competing with MA FA Hub, I evaluated the websites of the Massachusetts Educational Financing Authority (MEFA) and Massachusetts Office of Student Financial Assistance (OSFA) using [Jakob Nielsen's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). While both websites were by no means bad, they had elements that were cumbersome, unfamiliar or both, which limited their accessibility-- in the case of financial aid, this inaccessibility could be the difference between attending or not attending a particular school. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment01/README.md)
 
-With potential areas for improvement narrowed down, I conducted usability testing to see from a user's perspective. During the test, I had a participant perform a handful of tasks with the OSFA website in the hopes of illuminating problematic areas that I had missed. Exactly that happened; my participant had a few hiccups that I did not expect, which pinpointed parts of the website that needed streamlining. As I learned in this step, user feedback is crucial to a successful design project, which ended up being a common thread as I developed my app. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/tree/main/Assignment02)
+With potential areas for improvement narrowed down, I conducted a pilot usability test to see from a user's perspective. During the test, I had a participant perform a handful of tasks with the OSFA website in the hopes of illuminating problematic areas that I had missed. Exactly that happened; my participant had a few hiccups that I did not expect, which pinpointed parts of the website that needed streamlining. As I learned in this step, user feedback is crucial to a successful design project, which ended up being a common thread as I developed my app. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment02/README.md)
 
 ### User Research
 
-5) User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+To gain a deeper understanding of users' opinions of existing websites, I conducted user research by interviewing a member of my target population. During the interview, I gave her general tasks to do on the Massachusetts OSFA website, asking her questions about her choices throughout. From her responses, I got a lot of useful insights. Specifically, she emphasized ease of navigation, efficient organization of content, and clarity of the website's reputability, all of which I sought to implement in my design. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment03/README.md)
 
 ###  UX Storytelling
 
 6) UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
+
+To further my understanding of my target users, I created two personas of potential users of MA FA Hub: a student and a parent. By envisioning their wants, needs, and feelings, as well as how and why they would use MA FA Hub, I was forced to broaden my perspective of my app's target audience and detach my biases from my work, both of which were very valuable. These exercises also helped me to solidify features that could help my users achieve their goals: Quick-View Mode and Selective Filters. [Read more](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment04/README.md)
 
 ### Wireframes and Graphic Design Element Variation
 
@@ -41,11 +42,6 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 
 9) High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
-
-### (OPTIONAL) Evaluation and Revision History
-
-10) Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch Video
 
