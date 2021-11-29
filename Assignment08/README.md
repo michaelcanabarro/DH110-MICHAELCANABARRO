@@ -24,10 +24,7 @@ To gain a deeper understanding of users' opinions of existing websites, I conduc
 
 ###  UX Storytelling
 
-6) UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
-
-To further my understanding of my target users, I created two personas of potential users of MA FA Hub: a student and a parent. By envisioning their wants, needs, and feelings, as well as how and why they would use MA FA Hub, I was forced to broaden my perspective of my app's target audience and detach my biases from my work, both of which were very valuable. These exercises also helped me to solidify features that could help my users achieve their goals: Quick-View Mode and Selective Filters. [Read more](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment04/README.md)
+To further my understanding of my target users, I created two personas of potential users of MA FA Hub: a student and a parent. By envisioning their wants, needs, and feelings, as well as how and why they would use MA FA Hub, I was forced to broaden my perspective of my app's target audience and detach my biases from my work, both of which were very valuable. These exercises also helped me to solidify features that could help my users achieve their goals: Quick-View Mode and Selective Filters. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment04/README.md)
 
 ### Wireframes and Graphic Design Element Variation
 
