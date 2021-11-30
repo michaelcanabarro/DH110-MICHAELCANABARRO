@@ -16,6 +16,8 @@ The goal of this design project is to create a website that makes the task of re
 
 To get a better idea of how existing financial aid websites work as well as the websites that would be competing with MA FA Hub, I evaluated the websites of the Massachusetts Educational Financing Authority (MEFA) and Massachusetts Office of Student Financial Assistance (OSFA) using [Jakob Nielsen's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). While both websites were by no means bad, they had elements that were cumbersome, unfamiliar or both, which limited their accessibility-- in the case of financial aid, this inaccessibility could be the difference between attending or not attending a particular school. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment01/README.md)
 
+<img width="771" alt="a08_competitors" src="https://user-images.githubusercontent.com/91518358/144000245-5f680a12-ec45-487f-a563-15a7598cddcf.png">
+
 With potential areas for improvement narrowed down, I conducted a pilot usability test to see from a user's perspective. During the test, I had a participant perform a handful of tasks with the OSFA website in the hopes of illuminating problematic areas that I had missed. Exactly that happened; my participant had a few hiccups that I did not expect, which pinpointed parts of the website that needed streamlining. As I learned in this step, user feedback is crucial to a successful design project, which ended up being a common thread as I developed my app. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment02/README.md)
 
 ### User Research
@@ -36,7 +38,7 @@ With the theoretical framework of my app in place along with a comprehensive und
 
 From the wireframes I created, I developed a wireflow for the app by connecting the frames with arrows to illustrate the various ways in which it can be navigated. I again recruited a potential user to test this low-fidelity prototype, where fortunately I found minimal issues. However, the prototype wasn't perfect, and the user's feedback was valuable for highlighting small but important areas for modification. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md)
 
-<img width="767" alt="a08_lofipro" src="https://user-images.githubusercontent.com/91518358/143999315-0b1dcde3-912d-482f-a023-c3689400ec32.png">
+<img width="793" alt="a08_lofipro" src="https://user-images.githubusercontent.com/91518358/143999948-98b298e4-9c40-416d-80fd-fc65267f2645.png">
 
 After testing my low-fidelity prototype, I used [Figma](https://www.figma.com/) to create interface designs for MA FA Hub. Through this process, I was able to get a clear picture of how my app would look on an actual device. At this point, I also made sure to test different variations in the elements of the screens, from typography and color variation to the shapes of the app's buttons. Each variation was tested with a potential user to see which one left the best impression. From this round of feedback, I was able to solidify the font, colors, and button shape that I would stick with for the final design. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/tree/main/Assignment06)
 
