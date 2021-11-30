@@ -56,7 +56,7 @@ After creating the prototype, I conducted a cognitive walkthrough with a user to
 
 ### Pitch Video
 
-11) Pitch video 
+The link to my pitch video can be found [here](link).
 
 ---
 
