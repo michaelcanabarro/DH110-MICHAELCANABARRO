@@ -41,7 +41,13 @@ After testing my low-fidelity prototype, I used [Figma](https://www.figma.com/) 
 9) High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
-Finally, I had all the information 
+Finally, I had all the information needed to assemble a functional prototype of my app. Again using Figma, I implemented attachment flows between the various screens of my interface design to create a high-fidelity prototype, the final version of which is below.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FSYk9wIRYr2TM25RjYTKT0J%2FA07_InteractivePrototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+After creating the prototype, I conducted a cognitive walkthrough with a user to see how well users were able to navigate the interface. To my delight, the user was able to complete the tasks I gave her with ease. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment07/README.md)
+
+(*Note: I have modified the high-fidelity prototype since creating the GitHub page linked above in order to reflect suggestions made by Professor Sookie Cho. Since these changes were made on the same Figma file, the file linked in Assignment 7 does not match the screenshots shown on the page exactly.*)
 
 ### Pitch Video
 
