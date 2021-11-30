@@ -28,14 +28,9 @@ To further my understanding of my target users, I created two personas of potent
 
 ### Wireframes 
 
-7) Wireframe and graphic design element variation [assignment06 + part of 07]
-
 With the theoretical framework of my app in place along with a comprehensive understanding of my users' behavior, I drew simple wireframes to get an initial idea of how the app would look on-screen. Through this exercise, I gained a much richer understanding of how my app would be able to help my target audience through its design. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md)
 
 ### Low-Fidelity Prototype and Graphic Design Element Variation
-
-8) Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 From the wireframes I created, I developed a wireflow for the app by connecting the frames with arrows to illustrate the various ways in which it can be navigated. I again recruited a potential user to test this low-fidelity prototype, where fortunately I found minimal issues. However, the prototype wasn't perfect, and the user's feedback was valuable for highlighting small but important areas for modification. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md)
 
