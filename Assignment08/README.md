@@ -26,19 +26,27 @@ To gain a deeper understanding of users' opinions of existing websites, I conduc
 
 To further my understanding of my target users, I created two personas of potential users of MA FA Hub: a student and a parent. By envisioning their wants, needs, and feelings, as well as how and why they would use MA FA Hub, I was forced to broaden my perspective of my app's target audience and detach my biases from my work, both of which were very valuable. These exercises also helped me to solidify features that could help my users achieve their goals: Quick-View Mode and Selective Filters. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment04/README.md)
 
-### Wireframes and Graphic Design Element Variation
+### Wireframes 
 
 7) Wireframe and graphic design element variation [assignment06 + part of 07]
 
-### Low-Fidelity Prototype
+With the theoretical framework of my app in place along with a comprehensive understanding of my users' behavior, I drew simple wireframes to get an initial idea of how the app would look on-screen. Through this exercise, I gained a much richer understanding of how my app would be able to help my target audience through its design. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md)
+
+### Low-Fidelity Prototype and Graphic Design Element Variation
 
 8) Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+From the wireframes I created, I developed a wireflow for the app by connecting the frames with arrows to illustrate the various ways in which it can be navigated. I again recruited a potential user to test this low-fidelity prototype, where fortunately I found minimal issues. However, the prototype wasn't perfect, and the user's feedback was valuable for highlighting small but important areas for modification. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/blob/main/Assignment05/README.md)
+
+After testing my low-fidelity prototype, I used [Figma](https://www.figma.com/) to create interface designs for MA FA Hub. Through this process, I was able to get a clear picture of how my app would look on an actual device. At this point, I also made sure to test different variations in the elements of the screens, from typography and color variation to the shapes of the app's buttons. Each variation was tested with a potential user to see which one left the best impression. From this round of feedback, I was able to solidify the font, colors, and button shape that I would stick with for the final design. [Read more...](https://github.com/michaelcanabarro/DH110-MICHAELCANABARRO/tree/main/Assignment06)
 
 ### High-Fidelity Prototype
 
 9) High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
+Finally, I had all the information 
 
 ### Pitch Video
 
