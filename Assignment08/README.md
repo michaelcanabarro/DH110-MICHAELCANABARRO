@@ -62,4 +62,10 @@ After creating the prototype, I conducted a cognitive walkthrough with a user to
 
 ### Conclusion
 
-12) Conclusion: what did you learn throughout the process?
+Overall, I found the UX design process to be both interesting and educational. I was able to learn about the various stages of the process and practice each of them in the context of my app, which was very valuable. As a result, I can definitely say that I conclude this project with a much greater appreciation for the vast amounts of time and effort that go into developing websites and applications that truly fit the needs of one's target audience.
+
+In addition to learning about the UX design process, these past ten weeks have allowed me to broaden my experience with various design programs. I used Figma in the past, but throughout this project I learned to use so many features and plugins that I did not know existed before. I was also able to gain exposure to programs like Adobe XD and Sketch, which was very interesting. I'm happy to have learned these skills, as I know they are applicable in many different career fields.
+
+Of all the things I learned during this process, perhaps the biggest lesson I learned was about the importance of the end user in UX design. Without the feedback of users at several stages of the process, my final prototype would not be nearly as polished as it currently is. As the weeks went on, I definitely learned to relish the opportunity to detach myself from my work and received unbiased feedback. It forced me to be open-minded, which I believe resulted in the best possible end product. 
+
+All in all, I'm quite pleased with my final prototype. Due to the time restrictions of the course, its functionality is limited to searching for scholarships and refining that search, but I believe that what it can do, it does very effectively in the context of the goals I set early in the design process. If I were to do this process again or continue this current one, I would love the chance to implement more rounds of user feedback and experiment with more advanced design elements, like gradients, to create a more polished look. But, considering the limitations of the course, I'm satisfied with my work and honored to have been able to learn about such an interesting topic in a very supportive setting.
